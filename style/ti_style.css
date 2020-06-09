@@ -1,0 +1,71 @@
+@@font-face {
+  font-family: baloo;
+  src:url("../font/baloo-tamma-regular.ttf");
+}
+@@font-face {
+  font-family: segoeui;
+  src:url("../font/segoeui.ttf");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* ===============SIGN IN ============== */
+.ti-nav{
+   margin-top:0px;
+    height: 158.67px;
+    background-color: #F50057;
+    color: white;
+    text-align: right;
+}
+.ti-nav a{
+    margin-top:100px;
+    text-decoration: none;
+    padding: 5px 10px;
+    font-size: 2rem;
+    color: white;
+}
+.signin{
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+.ti-signin{
+  margin-top:30px;
+}
+.form-control{
+  background-color: #789BB7;
+  height: 50px;
+  color: black;
+}
+.ti-h{
+  font-family: segoeui;
+  text-align: center;
+}
+.ti-btn{
+  width: 100%;
+  height: 50px;
+  border-radius: 25px;
+  color: white;
+  font-size: 2rem;
+margin-top: 50px;
+}
+.ti-bg1{background-color:#789BB7;}
+.ti-bg2{background-color:#F50057;}
+.ti-textco1{color:#F50057}
+.ti-textco2{}
+.footer{
+  margin-top: 100px;
+  font-family: baloo;
+  font-size: 20px;
+  background-color: #F50057;
+}
+.ti-fc{margin-top:40px;margin-bottom: 40px;}
+.ti-fd{margin-bottom:30px;}
